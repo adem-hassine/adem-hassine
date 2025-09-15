@@ -21,7 +21,7 @@ I'm passionate about **software development, data science, open source, AI** and
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adem-hassine&show_icons=true&theme=tokyonight)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adem-hassine&show_icons=true&theme=transparent)  
 
 ---
 
