@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there I'm Adem HASSINE 👋,
 
-<!--
-**adem-hassine/adem-hassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm passionate about **software development, data science, open source, AI** and love building projects that solve real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Java, Python, Typescript, JavaScript  
+- **Frameworks:** Spring Boot, React, Angular, Flask  
+- **Databases:** SQL/NoSQL  
+- **Tools:** Git,Docker, Kubernetes, AWS, Azure  
+
+---
+
+## 🌱 What I'm working on
+- Currently exploring the latest tools and technologies in **AI with Python** 🤖🐍  
+- I don’t have a big track record in open source yet, but don’t hesitate to reach out — I’d be glad to contribute!  
+- Contributed to **[seed4j](https://github.com/seed4j/seed4j/issues/12038)** 🌱  
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adem-hassine&show_icons=true&theme=tokyonight)  
+
+---
+
+## 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/adem-hassine-042a3a214/)
+- 🌐 [Portfolio/Website](https://ademhassine.com)    
+- 📫 [Email](mailto:adem.hassine.dev@gmail.com)  
